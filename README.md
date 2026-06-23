@@ -51,14 +51,6 @@ The processor was verified using dedicated testbenches covering:
 * Target Device: Xilinx Artix-7
 * Maximum Operating Frequency: 190 MHz
 
-## Project Structure
-
-```text
-rtl/     -> RTL source files
-tb/      -> Testbenches
-docs/    -> Project documentation
-images/  -> Architecture and simulation screenshots
-```
 
 ## Author
 
